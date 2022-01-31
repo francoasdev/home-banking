@@ -31,3 +31,5 @@ and will be able to make new transactions.
  --When closing the window, the session is closed.
 
  --After 15 seconds without activity, the session is closed.
+
+Project done by Franco Zapata and German Vicentin, using Ruby on Rails.
