@@ -1,46 +1,33 @@
 # README
 
-PROYECTO: BANCO SAINT PATRICK
+PROJECT: SAINT PATRICK BANK
 
-Home banking para transacciones.
+Home banking for transactions.
 
-#idea2
+#idea2 by ID for Ideas
 
+- Description of the project:
 
-Descripción del proyecto:
+In the home banking we are going to be able to enter with security by user and visualize
+our balance. We will also be able to make transactions to other cards.
 
-En el home banking vamos a poder ingresar con seguridad por usuario y visualizar
-nuestro saldo. También vamos a poder realizar transacciones a otras tarjetas.
+- Objectives:
 
+With predefined cards for already created users, we will be able to transfer silver from
+account to account with sufficient security and validations so that there will be no losses.
+of money in transactions.
 
-Objetivo:
+- Client requirements/features:
 
-Con tarjetas predefinidas para usuarios ya creados, vamos a poder transferir plata de
-cuenta a cuenta con la seguridad y validaciones suficientes para que no haya pérdidas
-de dinero en transacciones.
+ --Users are already created, there is no registration, only login with card number and pin.
 
+ --The user can view his current balance, a list of last transactions of the month,
+and will be able to make new transactions.
 
-Requisitos:
+ --The user can have more than one card.
 
--Los usuarios ya están creados, no hay registro, sólo login con numero de tarjeta y pin.
--El usuario puede visualizar su saldo actual, un listado de últimas transacciones del mes,
-y podrá realizar nuevas transacciones.
--El usuario podrá tener más de una tarjeta,
--Para realizar una transacción se pedirá número de tarjeta del otro usuario y monto.
--Al cerrar la ventana, se cierra la sesión.
--Al pasar 15 segundos sin actividad se cierra la sesión.
+ --To make a transaction, the other user's card number and amount will be requested.
 
+ --When closing the window, the session is closed.
 
-Páginas a desarrollar:
-
--Login
-
--Ver saldo (con botón de ir a transacciones)
-
--Listado de historial de transacciones (con boton para “nueva transacción)
-
--Nueva transacción
-
--Confirmación de transacción
-
--Página de “sesión cerrada”
+ --After 15 seconds without activity, the session is closed.
