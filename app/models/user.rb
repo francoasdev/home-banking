@@ -1,5 +1,3 @@
-class User < ApplicationRecord
-
 # frozen_string_literal: true
 
 # == Schema Information
